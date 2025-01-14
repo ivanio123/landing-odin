@@ -51,7 +51,7 @@ body {
 }
 .firstscreen{
     padding: 16px 6vw;
-    min-height: 48vh;
+    min-height: 56vh;
     background-color: #1f2954;
     display: flex;
     justify-content: center;
@@ -108,7 +108,7 @@ body {
     /* max-height: 300px; */
 }
 .info{
-    min-height: 28vh;
+    min-height: 36vh;
     padding: 24px;
     /* background-color: #e5e76e; */
     display: flex;
